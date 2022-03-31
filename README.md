@@ -2,3 +2,5 @@
 
 My first readme
 
+Second week in Alx and it feels like I haven't been writing code for ages
+
